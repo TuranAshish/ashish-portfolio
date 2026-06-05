@@ -32,7 +32,7 @@ const profile = {
     "Helping students master Python, Web Development, AI, and Computer Science through structured project-based learning.",
   location: "Remote • Serving students worldwide",
   email: "contact.ashish.turan@gmail.com",
-  phone: "+1 (647) 474-4930   +918168290554",
+  phone: "+918168290554",
   linkedin: "https://www.linkedin.com/in/ashish-turan/",
   company: "https://turancodes.vercel.app",
 };
