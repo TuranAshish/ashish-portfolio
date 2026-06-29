@@ -6,7 +6,7 @@ A modern, responsive, and futuristic personal portfolio website built for **Ashi
 
 ## 🌟 Live Preview
 
-🔗 **Website:** `https://educator-ashish-portfolio.vercel.app/`
+🔗 **Website:** `https://ashish--portfolio.vercel.app`
 
 > Replace the link above if your GitHub username or repository name is different.
 
